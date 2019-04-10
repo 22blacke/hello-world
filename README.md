@@ -2,7 +2,7 @@
 starter repository
 
 
-slosh slosh all our organs just sloshig around in ourbodys
+slosh slosh all our organs just sloshing around in ourbodys
 
 
 we made a file called readme we edited it
